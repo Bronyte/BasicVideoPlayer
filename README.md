@@ -31,22 +31,13 @@ This project helps students and beginner developers:
 - `Label fileName`: Shows currently playing video name.
 - `Label lblDuration`: Displays video duration or status.
 - `Timer timer1`: Controls delayed video playback.
-
-### Important Methods
-- `LoadFolderEvent`: Opens folder dialog and loads supported video files.
-- `LoadPlayList`: Populates playlist and sets up video playback.
-- `PlayListChanged`: Handles video switching when user selects a different item.
-- `TimerEvent`: Starts video playback after a brief delay.
-- `ShowAboutEvent`: Displays app information.
-- `MediaPlayerStateChangeEvent`: Manages UI updates and auto-play for the next video.
-- `PlayFile(string url)`: Sets the video to play.
-- `ShowFileName(Label name)`: Updates the label with the currently playing file name.
+- `Menustrip menustrip1`: Provides menu options.
 
 ---
 
 ## How to Run
 
-1. Clone or download the project from the [GitHub repository](https://github.com/your-username/your-repo-name).
+1. Clone or download the project.
 2. Open the solution (`.sln` file) in **Visual Studio**.
 3. Build the project (`Ctrl + Shift + B`).
 4. Run the app (`F5`).
