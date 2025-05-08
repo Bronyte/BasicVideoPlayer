@@ -41,7 +41,7 @@ This project helps students and beginner developers:
 2. Open the solution (`.sln` file) in **Visual Studio**.
 3. Build the project (`Ctrl + Shift + B`).
 4. Run the app (`F5`).
-5. In the application, click **File → Load Folder** and select a folder containing video files.
+5. In the application, click **File → Open Folder** and select a folder containing video files.
 
 ---
 
